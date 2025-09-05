@@ -130,3 +130,6 @@ dmypy.json
 
 # Project specific
 PyWhatKit_DB.txt
+
+# Google Sheets credentials (contains sensitive API keys)
+credentials.json
